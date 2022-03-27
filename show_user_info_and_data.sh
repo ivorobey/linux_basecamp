@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hi Global"
+echo "hi Globall"
 echo $1
 echo $2
 username="$1"

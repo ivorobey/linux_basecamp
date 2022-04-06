@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hi Globall"
+echo "hi Global"
 echo 'Username: ' $1  && echo 'Directory: ' $2
 username="$1"
 dirpath="$2"
